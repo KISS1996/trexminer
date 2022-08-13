@@ -3,7 +3,7 @@
 # Linux安装  
 ### 执行一键安装命令  
 `bash <(curl -s -L https://raw.githubusercontent.com/KISS1996/trexminer/main/install.sh)`
-![image](https://github.com/Luffeey/CloudPool/blob/master/images/install-1.jpg)
+![image](https://github.com/Luffeey/CloudPool/blob/master/images/install-1.jpg)  
 安装完成后，会显示加密后台端口号、账户、密码等信息，根据提示的端口号，浏览器访问服务器ip:端口号
 ###
 浏览器打开TrexMiner后台，至此服务端程序安装完毕！ 
