@@ -116,7 +116,7 @@ uninstall() {
 
 start() {
     colorEcho $BLUE "启动程序..."
-    checkProcess "cloudproxy"
+    checkProcess "trexminer"
     if [ $? -eq 1 ]; then
         colorEcho ${RED} "程序已经启动，请不要重复启动。"
         return
