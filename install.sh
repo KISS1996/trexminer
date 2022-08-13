@@ -178,7 +178,7 @@ turn_off() {
 }
 
 installapp() {
-    colorEcho ${GREEN} "开始安装CloudProxy"
+    colorEcho ${GREEN} "开始安装trexminer"
 
     if [[ `command -v yum` ]];then
         colorEcho ${BLUE} "关闭防火墙"
