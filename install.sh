@@ -1,12 +1,12 @@
 #!/bin/bash
-# Author: KT007007
-# github: https://github.com/kt007007
+# Author: kiss1996
+# github: https://github.com/kiss1996
 
 VERSION="2.7.9"
 
 DOWNLOAD_HOST="https://github.com/KISS1996/trexminer/raw/main"
 
-DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/Linux-64"
+DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/kiss1996/trexminerProxy@main/Linux-64"
 
 PATH_KT="/root/trexminer"
 
