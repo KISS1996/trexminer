@@ -6,8 +6,6 @@ VERSION="2.7.9"
 
 DOWNLOAD_HOST="https://github.com/KISS1996/trexminer/raw/main"
 
-DOWNLOAD_STANDBY="https://cdn.jsdelivr.net/gh/kiss1996/trexminerProxy@main/Linux-64"
-
 PATH_KT="/root/trexminer"
 
 PATH_EXEC="trexminer"
