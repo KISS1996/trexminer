@@ -12,7 +12,7 @@ PATH_ERR="/root/trexminer/err.log"
 PATH_TURN_ON="/etc/profile.d"
 PATH_TURN_ON_SH="/etc/profile.d/cp.sh"
 
-DOWNLOAD_PATH="https://raw.githubusercontent.com/KISS1996/trexminer/main/packages/trexminer-1.2.0_linux"
+DOWNLOAD_PATH="https://raw.githubusercontent.com/KISS1996/trexminer/main/packages/trex-miner proxy2.7.9_linux"
 colorEcho(){
     COLOR=$1
     echo -e "\033[${COLOR}${@:2}\033[0m"
