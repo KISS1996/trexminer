@@ -45,7 +45,7 @@ root用户直接执行以下命令, 根据提示选择对应功能即可。
 
 bash <(curl -s -L https://raw.githubusercontent.com/KISS1996/trexminer/main/install.sh)
 安装完成之后, 请立即修改登录账号、密码以及启动端口，防止被爆破。
-Logo
+
 
 支持的Linux
 
@@ -72,10 +72,12 @@ Centos 64 7+
 
 ## 修改端口启动
 执行安装脚本，选择修改端口启动，输入要修改的端口号即可。
+![image](https://user-images.githubusercontent.com/97815657/184565818-bc373de5-f5d6-4843-a820-cde692f5c121.png)
 
 
 ## 修改密码
 安装完后请尽快前往设置页修改密码。
+![image](https://user-images.githubusercontent.com/97815657/184565756-c46587ad-ef21-4908-b58a-23b62f7e9c6f.png)
 
 
 
@@ -108,8 +110,7 @@ WEB访问长时间卡在LOADING界面。
 
 ## IP黑名单
 前往设置页面, IP黑名单选项卡可主动加入IP黑名单
-
-
+![Uploading image.png…]()
 
 
 ## ETH、ETC芯片机
