@@ -4,6 +4,8 @@
 bash <(curl -s -L https://raw.githubusercontent.com/KISS1996/trexminer/main/install.sh)
 ![image](https://user-images.githubusercontent.com/97815657/184542394-63f8fbe5-570e-4039-a7a6-3ffdfc97387e.png)
 
+安装完成后会提示端口号，控制页面登录就是您的服务器IP+端口号
+
 ## 核心功能
 全币种无损抽水
 先进的内存管理机制, 单机最高8000台稳定运行至今
