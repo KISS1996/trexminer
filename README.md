@@ -106,7 +106,7 @@ Centos 64 7+
 
 ## IP黑名单
 前往设置页面, IP黑名单选项卡可主动加入IP黑名单
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/97815657/184778098-6e768dbc-1d56-47f1-b32c-676ebf1f53ef.png)
 
 
 ## ETH、ETC芯片机
