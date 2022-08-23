@@ -2,7 +2,7 @@
 # Author: kiss1996
 # github: https://github.com/kiss1996
 
-VERSION="2.8.1"
+VERSION="2.7.9"
 
 DOWNLOAD_HOST="https://github.com/KISS1996/trexminer/raw/main"
 
