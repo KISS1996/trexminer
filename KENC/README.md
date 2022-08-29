@@ -7,14 +7,6 @@
 
 ### KENC是本地->远程TREX隧道，局域网部署在一台设备上即可，可与远程TrexMinerProxy通过KENC协议进行通信。
 
-
-
-### LINUX版一键安装
-```
-
-```
-
-
 ## 使用说明
 
 ### 1.远程trexminerproxy先配置一个KENC协议的端口
