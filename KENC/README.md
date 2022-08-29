@@ -11,7 +11,7 @@
 
 ### LINUX版一键安装
 ```
-rm ./k-install.sh;wget https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/k-install.sh;chmod 777 ./k-install.sh;bash ./k-install.sh
+
 ```
 
 
