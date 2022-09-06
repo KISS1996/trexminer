@@ -6,7 +6,7 @@ DOWNLOAD_HOST=""
 
 AMD64_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_linux_amd64"
 
-ARM64_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_arm386"
+ARM64_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_linux_arm64"
 
 ARM386_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_arm386"
 
