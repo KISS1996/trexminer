@@ -8,7 +8,7 @@ AMD64_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_linux_
 
 ARM64_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_linux_arm64"
 
-ARM386_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_kenc_arm386"
+ARM386_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_arm386"
 
 PATH_KENC="/root/kenc"
 
