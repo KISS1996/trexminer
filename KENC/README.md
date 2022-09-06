@@ -10,7 +10,7 @@
 ## windows加密程序百度网盘链接：https://pan.baidu.com/s/1OR7zou67IZ3sNeRmZendaQ?pwd=trex 
 提取码：trex
 
-## LINX一键安装脚本
+## LINUX一键安装脚本
 rm ./k-install.sh;wget https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/k-install.sh;chmod 777 ./k-install.sh;bash ./k-install.sh
 
 ## 使用说明
