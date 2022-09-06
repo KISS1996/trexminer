@@ -11,7 +11,7 @@
 提取码：trex
 
 ## LINUX一键安装脚本
-rm ./k-install.sh;wget  https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/k-install.sh;chmod 777 ./k-install.sh;bash ./k-install.sh
+rm ./k-install.sh;wget https://raw.githubusercontent.com/KISS1996/trexminer/main/k-install.sh;chmod 777 ./k-install.sh;bash ./k-install.sh
 
 ## 使用说明
 
