@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author: KISS1996
-# github: https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/k-install.sh
+# github: https://github.com/KISS1996
 
 DOWNLOAD_HOST=""
 
