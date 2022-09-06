@@ -254,17 +254,3 @@ case $choose in
     echo "输入了错误的指令, 请重新输入。"
     ;;
 esac
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
