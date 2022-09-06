@@ -4,9 +4,9 @@
 
 DOWNLOAD_HOST=""
 
-AMD64_HOST="https://github.com/KISS1996/trexminer@main/KENC/kenc_linux_amd64
+AMD64_HOST="https://github.com/KISS1996/trexminer@main/KENC/kenc_linux_amd64"
 
-ARM64_HOST=" https://github.com/KISS1996/trexminer@main/KENC/kenc_linux_arm64"
+ARM64_HOST="https://github.com/KISS1996/trexminer@main/KENC/kenc_linux_arm64"
 
 ARM386_HOST="https://github.com/KISS1996/trexminer@main/KENC/kenc_kenc_arm386"
 
