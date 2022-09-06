@@ -1,14 +1,14 @@
 #!/bin/bash
-# Author: KISS1996
+# Author: TREX
 # github: https://github.com/KISS1996
 
 DOWNLOAD_HOST=""
 
-AMD64_HOST="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/KENC/kenc_linux_amd64"
+AMD64_HOST="https://cdn.jsdelivr.net/ghKISS1996/trexminer@main/KENC/kenc_linux_amd64"
 
-ARM64_HOST="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/KENC/kenc_linux_arm64"
+ARM64_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_linux_arm64"
 
-ARM386_HOST="https://cdn.jsdelivr.net/gh/kt007007/KTMinerProxy@main/KENC/kenc_arm386"
+ARM386_HOST="https://cdn.jsdelivr.net/gh/KISS1996/trexminer@main/KENC/kenc_arm386"
 
 PATH_KENC="/root/kenc"
 
@@ -254,3 +254,17 @@ case $choose in
     echo "输入了错误的指令, 请重新输入。"
     ;;
 esac
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
