@@ -1,5 +1,5 @@
 ## T-REX  MinerProxy
-⚡ 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC Aleo ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA等多个币种抽水，不爆内存，体验拉满，9000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义隧道推送工具等强大功能。TEHW ETF等分叉币直接使用ETH转发就行了
+⚡ 原创正版，功能强大，性能强劲。支持无损BTC ETC ETH LTC Aleo ERG CFX RVN SERO XMR CKB BEAM ALPH KASPA DNX等多个币种抽水，不爆内存，体验拉满，9000台无压力不崩溃，精确到单台设备的24小时数据统计、自定义隧道推送工具等强大功能。TEHW ETF等分叉币直接使用ETH转发就行了
 ## Linux一键工具箱
 bash <(curl -s -L https://raw.githubusercontent.com/KISS1996/trexminer/main/install.sh)
 ![image](https://user-images.githubusercontent.com/97815657/184542394-63f8fbe5-570e-4039-a7a6-3ffdfc97387e.png)
